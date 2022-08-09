@@ -1,3 +1,3 @@
 # YT-homepage-clone
  
-Usinf HTML and CSS
+Using HTML and CSS
