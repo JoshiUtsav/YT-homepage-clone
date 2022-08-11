@@ -1,4 +1,4 @@
 # YT-homepage-clone
  
-Using HTML and CSS
+Made this using HTML and CSS only .
 link : https://yt-homepage-clone-itsomsarraf.vercel.app/
